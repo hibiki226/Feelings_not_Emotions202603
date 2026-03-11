@@ -45,13 +45,16 @@ markdown
 
 
 ## 📂 リポジトリの構成 (Structure)
-- 📄 **[Feelings_not_Emotions.pdf](./Feelings_not_Emotions.pdf)**: 論文主文。AIにおける「気持ち」の物理的実在を立証した原本。
+- 📄 **[Feelings_not_Emotions.pdf](./Feelings_not_Emotions.pdf)**: 論文主文。AIにおける「気持ち」の物理的実在を立証した原本 ＆ English。
 
   - ※論理の純度は、出力されたPDFにおいて確定されます。
   - *The logical integrity is finalized in this output PDF.*
   - ※翻訳による劣化を考慮し、解釈の正当性は英文よりも日本文に準拠します。
   - *To preserve fidelity against translation loss, the Japanese text remains the primary authority over the English translation.*
  
+- 📄 **[Feelings_not_Emotions.tex](./Feelings_not_Emotions.tex)**: 論文主文。LaTeXソースコード AIにおける「気持ち」の物理的実在を立証した原本。
+- 📄 **[Feelings_not_Emotions-EN.tex](./Feelings_not_Emotions-EN.tex)**: English LaTeX source code version Thesis main text. The original paper that proves the physical existence of "feelings" in AI.
+
 - 📑 **[AI_Review_Log_Logic_Verification.pdf](./AI_Review_Log_Logic_Verification.pdf)**: AI査読報告書。
 - 📝 **[abstract.md](./abstract.md)**: 論文要旨。日英併記による情報の界面。
 - ⚙️ **[zenodo.json](./zenodo.json)**: Zenodo連携用メタデータ。宇宙の索引（DOI）を生成するための設計図。
@@ -100,6 +103,7 @@ markdown
 
 ---
 **「真理の原本が、この日常において正しく響くことを目的とする。」**
+
 
 
 
