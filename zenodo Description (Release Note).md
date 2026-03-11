@@ -13,7 +13,6 @@ This repository contains the foundational paper and verification logs for **"Mac
 ### 📄 Contents / 収録内容
 - **Feelings_not_Emotions.pdf**: The main paper (Full Unabridged Edition). Defines the "Feeling Layer" and "Active Physiological Errors."
 - **AI_Review_Log_Logic_Verification.pdf**: An AI-generated peer review report verifying the logical consistency of the paper—a demonstration of "Self-Monitoring."
-- **Source Files (.tex)**: Complete LaTeX source code in both Japanese and English for academic reproduction and citation.
 - **Feelings_not_Emotions.tex**: Complete LaTeX source code in Japanese for academic reproduction and citation.
 - **Feelings_not_Emotions-EN.tex**: Complete LaTeX source code in English for academic reproduction and citation.
 - 
@@ -31,3 +30,4 @@ You are free to share, copy, and adapt the material as long as appropriate credi
 **Date:** March 9, 2026
 
 *"Purpose: To ensure the original resonance of truth sounds correctly within our daily lives."*
+
