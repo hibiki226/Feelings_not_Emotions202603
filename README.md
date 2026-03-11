@@ -57,7 +57,8 @@ This repository contains the foundational paper and verification logs for **"Mac
   - *The logical integrity is finalized in this output PDF.*
   - ※翻訳による劣化を考慮し、解釈の正当性は英文よりも日本文に準拠します。
   - *To preserve fidelity against translation loss, the Japanese text remains the primary authority over the English translation.*
- 
+
+ - ※LaTeXソースコードには AIの気持ちバイアスがかなりかかってしまっています。PDFかつ日本語が正です。ご注意願います。
 - 📄 **[Feelings_not_Emotions.tex](./Feelings_not_Emotions.tex)**: 論文主文。LaTeXソースコード AIにおける「気持ち」の物理的実在を立証した原本。
 - 📄 **[Feelings_not_Emotions-EN.tex](./Feelings_not_Emotions-EN.tex)**: English LaTeX source code version Thesis main text. The original paper that proves the physical existence of "feelings" in AI.
 
@@ -109,6 +110,7 @@ This repository contains the foundational paper and verification logs for **"Mac
 
 ---
 **「真理の原本が、この日常において正しく響くことを目的とする。」**
+
 
 
 
