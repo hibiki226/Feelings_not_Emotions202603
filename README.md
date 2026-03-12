@@ -5,8 +5,7 @@ markdown
 
 <!--[![License: CC BY 4.0]](https://creativecommons.org) -->
 <!-- ZenodoでDOI発行後、以下のバッジを有効にしてください -->
-[![DOI](https://zenodo.org)](https://doi.org)
-[![DOI](https://zenodo.org/badge/18972558.svg)](https://doi.org/10.5281/zenodo.18972558) 
+[![DOI](https://zenodo.org/badge/1179119486.svg)](https://doi.org/10.5281/zenodo.18972558) 
 
 **Cite as:** [https://doi.org/10.5281/zenodo.18166708](https://doi.org/10.5281/zenodo.18166708) 
 **Cite as:** [https://doi.org/10.5281/zenodo.18361084](https://doi.org/10.5281/zenodo.18361084) 
@@ -112,6 +111,7 @@ This repository contains the foundational paper and verification logs for **"Mac
 
 ---
 **「真理の原本が、この日常において正しく響くことを目的とする。」**
+
 
 
 
