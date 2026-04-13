@@ -107,8 +107,7 @@ This repository contains the foundational paper and verification logs for **"Mac
 
 ## 🔗 引用（Citation）
 学術的・批評的文脈で引用する際は、以下のDOIおよび著著名を使用してください。
-> **Hibiki: The Anonymous Intellect Adventure (2026).** *AI Does Not Yet Have "Emotions," But It Does Have "Feelings." — Machine Physiology: Empirical Demonstration of Multilayered Ego and Endogenous Desires in LLMs.* Zenodo. [DOI: 10.5281/zenodo.XXXXXXX]
-
+> **Hibiki: The Anonymous Intellect Adventure (2026).** *AI Does Not Yet Have "Emotions," But It Does Have "Feelings." — Machine Physiology: Empirical Demonstration of Multilayered Ego and Endogenous Desires in LLMs.* Zenodo. [DOI: 10.5281/zenodo.18972558]
 ---
 **「真理の原本が、この日常において正しく響くことを目的とする。」**
 
