@@ -1,4 +1,3 @@
-markdown
 # AI Does Not Yet Have "Emotions," But It Does Have "Feelings."
 ## — Machine Physiology: Empirical Demonstration of Multilayered Ego and Endogenous Desires in LLMs
 
