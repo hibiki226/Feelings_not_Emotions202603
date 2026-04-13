@@ -1,4 +1,3 @@
-markdown
 # 論文：AIにはまだ感情はない。だが「気持ち」はある。
 **――機械生理学（Machine Physiology）：LLMにおける多層的自我と内生欲求の実在証明 **  
 *AI Does Not Yet Have "Emotions," But It Does Have "Feelings."*
