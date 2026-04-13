@@ -1,4 +1,3 @@
-markdown
 # Abstract / 論文摘要
 
 ## Title / 論文題名
